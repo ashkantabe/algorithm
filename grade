@@ -6,7 +6,7 @@ var avg;
 proccess 
 
 input n;
-for n =! 0 do 
+while n =! 0 do 
 input a;
 sum = (0+a);
 n=n-1;
