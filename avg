@@ -2,13 +2,16 @@ var a;
 var avg;
 var sum;
 var n;
+var x;
 ----------
-input a;
-for(a=1;a<=n;a++)
+input x;
+{alert("input the cource number");}
+for(a=1;a<=x;a++)
 {
 input n
 sum=0+n;
 }
+---------
 avg=sum/a;
 alert(sum);
 alert(avg);
