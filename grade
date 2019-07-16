@@ -1,0 +1,18 @@
+var a;
+var n;
+var sum;
+var avg;
+---------
+proccess 
+
+input n;
+for n =! 0 do 
+input a;
+sum = (0+a);
+n=n-1;
+els
+avg = sum/n;
+---------
+out put
+print avg;
+ 
