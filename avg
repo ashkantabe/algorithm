@@ -1,0 +1,16 @@
+var a;
+var avg;
+var sum;
+var n;
+----------
+input a;
+for(a=1;a<=n;a++)
+{
+input n
+sum=0+n;
+}
+avg=sum/a;
+alert(sum);
+alert(avg);
+if avg <=60 {alert("Faield");}
+else {alert("pass");}
