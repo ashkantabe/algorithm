@@ -5,10 +5,10 @@ var n;
 var x;
 ----------
 input x;
-{alert("input the cource number");}
+text = "input the cource number";
 for(a=1;a<=x;a++)
 {
-input n
+input n;
 sum=0+n;
 }
 ---------
