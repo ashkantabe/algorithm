@@ -1,0 +1,10 @@
+input
+var h;
+var w;
+var area;
+------------------
+process
+area=w*h;
+------------------
+output
+print area
