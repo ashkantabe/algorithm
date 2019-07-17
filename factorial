@@ -1,0 +1,14 @@
+input
+---------------
+var i;
+var n=5;
+var fact;
+i,fact=1;
+-----------------
+proccess
+for(i=1;i<=n;i++){
+fact=fact*i;
+}
+-----------------
+output
+alert(fact);
